@@ -1,0 +1,3 @@
+No empleado =300
+Nombre =holis
+RFC =lufc901116
